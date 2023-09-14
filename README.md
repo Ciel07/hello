@@ -1,3 +1,3 @@
 # hello
 My first repository on GitHub
-l love sports.
+l love sports and fruit.
